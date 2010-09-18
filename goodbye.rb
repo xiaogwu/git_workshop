@@ -1,1 +1,1 @@
-goodbye
+puts 'goodbye'
